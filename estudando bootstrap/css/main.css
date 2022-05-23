@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #E03D48 !important;
+}
+
+.barras{
+    background-color: #FAAF4B;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box{
+    margin-bottom: 65px;
+}
+
+.parceiros{
+    padding-top: 10px;
+    background-color: #7AFF93;
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.servicos{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+}
