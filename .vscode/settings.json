@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 20,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": -1,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true
+}
